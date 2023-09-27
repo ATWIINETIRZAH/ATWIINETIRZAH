@@ -1,6 +1,6 @@
 
 <!A simple read me file>
-<h1 align="center">Hi, I,m Tirzah Atwiine 👋</h1>
+<h1 align="center">Hi, I'm Tirzah Atwiine 👋</h1>
 <h3 align="center">A passionate Computer Scientist and Robotics expert!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?compress=1&resize=400x300&vertical=top">
 
