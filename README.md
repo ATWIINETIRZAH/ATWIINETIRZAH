@@ -1,7 +1,7 @@
 
 <!A simple read me file>
 <h1 align="center">Hi, I'm Tirzah Atwiine 👋</h1>
-<h3 align="center">A passionate Computer Scientist and Robotics expert!</h3>
+<h3 align="center">A passionate Computer Scientist, Robotics and Data Analytics enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?compress=1&resize=400x300&vertical=top">
 
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/tirzah_atwiiine" target="blank"><img src="https://img.shields.io/twitter/follow/tirzah_atwiine?logo=twitter&style=for-the-badge" alt="atwiinetirzah" /></a> </p>
 
-- 🔭 I’m currently working on **robots that detect crime**
+- 🔭 I’m currently working on **data analysis and machine learning**
 
-- 🌱 I’m currently broadening my knowledge on **cybersecurity and robotics**
+- 🌱 I’m currently broadening my knowledge on **robotics, data science and machine learning**
 
-- 💬 Ask me about **Python , C, chatbots and Robotics**
+- 💬 Ask me about **Data and Robotics**
 
 - 📫 How to reach me **tirzahatwiine5@gmail.com**📧
 
-- ⚡ Fun fact **I am very funny!**
+- ⚡ Fun fact **I love colouring!**
 😂
 
 <h3 align="left">Reach me:</h3>
